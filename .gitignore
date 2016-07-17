@@ -1,0 +1,6 @@
+
+*.sw*
+
+vendor
+
+node_modules
