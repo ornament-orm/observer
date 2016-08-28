@@ -1,5 +1,7 @@
 <?php
 
+namespace Ornament\Tests;
+
 class ObserverModel implements SplObserver
 {
     use Ornament\Model;
